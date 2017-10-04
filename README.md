@@ -23,5 +23,5 @@ Follow instructions below and use the command line interface:
 7. Looks like we're in trouble. Use the special command to get out
 
 ## Resources
-https://www.learnenough.com/command-line-tutorial
+https://www.learnenough.com/command-line-tutorial<br>
 https://www.codecademy.com/learn/learn-the-command-line
