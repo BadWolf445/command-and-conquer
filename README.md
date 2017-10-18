@@ -18,7 +18,6 @@ Follow instructions below and use the command line interface:
 3. In each of the 3 folders, create a HTML, CSS, and JS file 
    Example: index.html, styles.css, app.js
 4. Rename *calculator* to *scientific-calculator*
-5. Move *weather-app* folder into *complete* folder
 6. Move into your *tic-tac-toe-game*, then type command *live-server*(Your Google Chrome Browser will appear. You can close it and go back to your shell window)
 7. Looks like we're in trouble. Use the special command to get out
 
